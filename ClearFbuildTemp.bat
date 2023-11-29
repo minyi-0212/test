@@ -1,0 +1,1 @@
+rmdir /s /q C:\Users\kikogu\AppData\Local\Temp\.fbuild.tmp
